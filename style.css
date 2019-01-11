@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css?family=Staatliches" rel="stylesheet')
+
+html{
+scroll-behavior:smooth;
+}
+
+body{
+  padding-top: 10px;
+}
+
+.demo-content{
+    padding: 15px;
+    font-size: 18px;
+    min-height: 650px;
+    background: #dbdfe5;
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+.demo-content.bg-alt{
+    background: #abb1b8;
+}
+
+img{
+    height: 650px;
+    width: 100%;
+}
+.more_padding{
+    padding:50px 0;
+}
+
+
+
+.background_black{
+    background:#000;
+}
+iframe{
+    width:100%;
+    max-width:720px;
+    margin:0 auto;
+    display:block;
+    }
+
+.more_padding{
+  padding:50px 0;
+}
+
+.footer{
+    background:#F0F0F0;
+    text-align: center;
+    height: 150px;
+    padding-top: 70px;
+    font-size: 17px;
+    font-weight: bold;
+    color: #000000;
+}
+.black{
+    color: #000000;
+}
+.full_width_header{
+    background-image:url('img/sony.png');
+    background-size:cover;
+    padding-bottom:150px;
+}
+.jumbotron{
+  background-color:transparent;
+  padding-top:100px;
+}
+
+.btn-transition{
+  transition:.25s;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
